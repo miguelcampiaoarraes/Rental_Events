@@ -100,7 +100,7 @@ A documentação interativa completa de schemas e requisições está disponíve
 
 ### 1. Clonar o Repositório
 ```bash
-git clone https://github.com/miguelarraes-a11y/Rental_Events.git
+git clone https://github.com/miguelcampiaoarraes/Rental_Events.git
 cd Rental_Events
 ```
 
